@@ -2,7 +2,7 @@
   "name": "New Digs",
   "description": "A small Sinatra app to set 301 redirects for all traffic to a new domain",
   "website": "http://sklise.com",
-  "repository": "https://github.com/sklise/newdigs"
+  "repository": "https://github.com/sklise/newdigs",
   "addons": ["papertrail"],
   "env": {
     "RACK_ENV": "production",
